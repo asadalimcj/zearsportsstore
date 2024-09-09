@@ -3,7 +3,7 @@ const app = express();
 const mongoDB = require("./Db");
 mongoDB();
 app.use((req, res, next) =>{
-    res.setHeader("Access-Control-Allow-Origin", "https://zearsportsstore-frontend.vercel.app");
+    res.setHeader("Access-Control-Allow-Origin", "https://zearsportsstore-frontend.vercel.app/");
     res.header(
         "Access-Control-Allow-Headers",
         "Origin, X-Requested-With, Content-Type, Accept"
