@@ -19,7 +19,7 @@ app.use("/api", require("./Routes/Myorders"));
 app.get("/", (req, res) =>{
     res.send("Hello World");
 });
-const PORT = process.env.PORT || 8500;
+const PORT = 8500;
 app.listen(PORT, () =>{
     console.log("rummimg server on port 8500");
 });
