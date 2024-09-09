@@ -11,7 +11,7 @@ mongoDB();
 //     );
 //     next();
 // })
-app.use(cors());
+// app.use(cors());
 const corsOptions = {
     origin: ['https://zearsportsstore-frontend.vercel.app/'], // Add your frontend URL(s) here
     methods: ['GET', 'POST', 'PUT', 'DELETE'],  // Allowed methods
