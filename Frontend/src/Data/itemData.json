@@ -1,0 +1,132 @@
+[
+    {
+        "CategoryName": "Motorbike Jackets",
+        "name": "Racing Jacket",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQPlFahwtbOWSaUkxWLvJlZkAcfmRLZPLx2lKriZE44aD7Y?width=1000&height=1000",
+        "options": [
+            {
+                "half": "130",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide and kangaroo leather and customise the design according to your requirements"
+    },
+    {
+        "CategoryName": "Motorbike suits",
+        "name": "Racing Custom Suits",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMlmhgDyfiLRrEYG7yaK91kAWv8GNAb5CkselehcaixB_E?width=1024",
+        "options": [
+            {
+                "half": "110",
+                "full": "200",
+                "custome": ""
+            }
+        ],
+       "description": "We can manufacture using original cowhide and kangaroo leather and customise the design according to your requirements"
+    },
+    {
+        "CategoryName": "Motorbike suits",
+        "name": "Ladies Leather suit",
+        "img": "https://1drv.ms/u/c/598c7502bc1eca3b/IQOCmThdynaSSpAnOic5RmSuAR7qlNw0SazsZtLbNDg5n9M?width=1000&height=1000",
+        "options": [
+            {
+                "half": "200",
+                "full": "320",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide and kangaroo leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Jackets",
+        "name": "Men Leather Jacket",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMculENdxSpS6hdTUtCTSKWAa_-GgLmaupSMZa4xKge1Uk?width=554&height=554",
+        "options": [
+            {
+                "half": "170",
+                "full": "300",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide and kangaroo leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Gloves",
+        "name": "Racing Gloves",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMJTTan4AeVS4FDGCLrGL7XAX7VqHdLE6tAqCn0nPWLzTc?width=1170&height=1136",
+        "options": [
+            {
+                "half": "150",
+                "full": "260",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Gloves",
+        "name": "Men Leather gloves",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMfc_veccZlRoto_1WAhbotAbpAYgFOLaBYytXc2vA5-CA?width=1170&height=1136",
+        "options": [
+            {
+                "half": "120",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Gloves",
+        "name": "Bike Racer gloves",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMkYcDCU2ENTq1DEuLJwPVRAZO0wvnFkPFnVekKnIzcSLA?width=1600&height=1600",
+        "options": [
+            {
+                "half": "120",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Shoes",
+        "name": "Racer shoes",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQM9VJJ1lS0TTKmfnNeKQwrEAb6lwAV10BLHYWK1rnb1y5E?width=1024",
+        "options": [
+            {
+                "half": "120",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Shoes",
+        "name": "Side Car Racing Shoes",
+        "img": "https://1drv.ms/i/c/598c7502bc1eca3b/IQMmSS9Ez0kQQ4Oqr4AQjECLAQBCuJYfdR5yMt5JrMHWJZ0?width=1024",
+        "options": [
+            {
+                "half": "120",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    },
+    {
+        "CategoryName": "Motorbike Shoes",
+        "name": "Bike Racer Shoes",
+        "img": "https://1drv.ms/u/c/598c7502bc1eca3b/IQMQMPc72ul9Q5snk3f_RV92ARRK-JpGZjPzzOZ7xtziTvo?width=806&height=800",
+        "options": [
+            {
+                "half": "120",
+                "full": "220",
+                "custome": ""
+            }
+        ],
+        "description": "We can manufacture using original cowhide leather and customise the design according to your requirements."
+    }
+]
