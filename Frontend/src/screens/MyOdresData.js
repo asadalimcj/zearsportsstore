@@ -6,7 +6,7 @@ function MyOrdersData() {
   const email = localStorage.getItem("email");
 
   useEffect(() => {
-    fetch("http://localhost:8500/api/myorders", {
+    fetch("https://zearsportsstore-backend.vercel.app/api/myorders", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

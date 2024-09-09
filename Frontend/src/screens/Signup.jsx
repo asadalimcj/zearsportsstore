@@ -11,7 +11,7 @@ function Signup() {
   });
   async function handleSubmission(event) {
     event.preventDefault();
-    const response = await fetch("http://localhost:8500/api/createuser", {
+    const response = await fetch("https://zearsportsstore-backend.vercel.app/api/createuser", {
       method: "POST",
       headers: {
         "Content-type": "application/json",

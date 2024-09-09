@@ -21,7 +21,7 @@ export default function Cart() {
     let email = localStorage.getItem("email");
     let currentDate = new Date();
   
-    let response = await fetch("http://localhost:8500/api/orders", {
+    let response = await fetch("https://zearsportsstore-backend.vercel.app/api/orders", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

@@ -13,7 +13,7 @@ function Home() {
   const [itemData, setItemData] = useState([]);
   const [catagory, setcatagory] = useState([]);
   const loaddata = async () => {
-    let response = await fetch("http://localhost:8500/api/itemdata", {
+    let response = await fetch("https://zearsportsstore-backend.vercel.app/api/itemdata", {
       method: "POST",
       headers: {
         "content-type": "application/json",
